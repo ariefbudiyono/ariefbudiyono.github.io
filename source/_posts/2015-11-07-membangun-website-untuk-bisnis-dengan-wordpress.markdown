@@ -50,6 +50,7 @@ Perusahaan - perusahaan besar seperti [Nest](https://nest.com/), [MailChimp](htt
 Masih dalam artikel *Smashingmagazine*, disebutkan berbagai alasan kenapa perusahaan - perusahaan tersebut menggunakan teknologi ini, bukan *cms* seperti pada umumnya, selain masalah dengan waktu *loading*, yakni  suport dengan *markdown syntak*.
 
 *Markdown syntak* ini merupakan cara penulisan dokumen yang **berbasis text** yang memiliki beberapa kelebihan antara lain :
+
 1. Bisa memanfaatkan fitur version control secara maksimal seperti diff, blame, branch, merge, dan sebagainya.
 2. Mudah diedit, pakai notepad pun jadi.
 3. Bisa diedit dimana saja, misalnya di tablet atau handphone.  
