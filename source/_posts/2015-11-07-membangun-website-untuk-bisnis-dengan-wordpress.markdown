@@ -15,6 +15,7 @@ Dengan *cms* ini *user* dapat menulis, merubah atau menghapus data yang ada di h
 Salah satu *cms open source* yang banyak di gunakan ialah [Wordpress](https://wordpress.org/). Walau fungsi dasar *cms wordpress* ini sebenarnya untuk *blogging*, namun dengan arsitektur *algoritma* yang dimiliki oleh *wordpress*, *developer* dapat mengembangkan *cms wordpress* ini untuk berbagai hal yang lebih luas lagi.
 
 <!-- more -->
+
 # Wordpress untuk bisnis
 
 Penggunaan *wordpress* untuk bisnis sangat banyak di gunakan, mulai dari website bisnis untuk *company profile*, toko online, forum, berita  dan lain - lain.
@@ -29,12 +30,14 @@ Sistem yang di miliki wordpress sangat flexible untuk berbagai keperluan bisnis,
 
 #### Sistem wordpress rawan di hack
 
+
 Banyak nya website yang menggunakan sistem *cms wordpress*, membuat ketertarikan bagi sebagian *hacker* untuk mencoba memaksa masuk ke sistem, bisa dibayangkan jika yang berhasil "masuk" mengambil, merubah atau menghilangkan data yang kita miliki.
 
 Berdasarkan [thehackernews](http://thehackernews.com/2015/04/WordPress-vulnerability.html) *Wordpress* versi 3.9.3, 4.1.1, 4.1.2, telah di ketahui memiliki celah yang dapat di masuki. Jika website bisnis anda menggunakan *wordpress* versi tersebut, maka berhati - hati lah.
 
 
 ### *Loading*  website berbasis wordpress bisa dibilang lambat
+
 
 Dari hasil perbandingan *wordpress* dengan *cms open source* lain, seperti  [Drupal](https://www.drupal.org/),[Joomla](https://www.joomla.org/), yang dilakukan oleh [Yotta](http://www.yottaa.com/blog/application-optimization/bid/301605/Benchmarking-Performance-of-8-CMS-Platforms-Who-Is-Slowest),  diketahui *wordpress* menempati posisi terakhir dari sisi waktu *loading* halaman.  
 
