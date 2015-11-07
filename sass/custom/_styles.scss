@@ -252,6 +252,7 @@ img#portrait {
   width: 240px;
 }
 
+  footer > p.meta:first-child { display: none; }
 
 // ------------------------------
 // code
@@ -864,5 +865,5 @@ article {
     }
   }
 
-  footer > p.meta:first-child { display: none; }
+
 }
