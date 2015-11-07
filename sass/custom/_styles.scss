@@ -822,6 +822,10 @@ article {
     margin-bottom: 5.016rem !important; /* 4.236 + 0.452 */
   }
 
+
+
+
+
   img#portrait {
     display: block;
     float: none;
@@ -859,4 +863,6 @@ article {
       }
     }
   }
+
+  footer > p.meta:first-child { display: none; }
 }
