@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[PagaruyungStudio.com]]></title>
-  <link href="http://ariefbudiyono.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Internet | PagaruyungStudio.com]]></title>
+  <link href="http://ariefbudiyono.github.io/blog/categories/internet/atom.xml" rel="self"/>
   <link href="http://ariefbudiyono.github.io/"/>
   <updated>2015-11-07T07:23:28+00:00</updated>
   <id>http://ariefbudiyono.github.io/</id>
@@ -81,15 +81,6 @@
 <p>Penggunaan <em>cms wordpress</em> sebagai <em>engine</em> dalam membangun website dalam jangka pendek bahkan menengah kedepan mungkin masih akan banyak, komunitas pengguna nya yang masih tersebar luas, mulai dari <em>developer, designer</em> bahkan <em>user</em> awam sekalipun, begitu intens dalam berbagi pengalaman nya.</p>
 
 <p>Plugin - plugin yang ada pun semakin memberikan kemudahaan kita membangun website sesuai untuk kebutuhan bisnis kita.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Helo Pagaruyungstudio]]></title>
-    <link href="http://ariefbudiyono.github.io/blog/2015/11/06/helo-pagaruyungstudio/"/>
-    <updated>2015-11-06T12:46:23+00:00</updated>
-    <id>http://ariefbudiyono.github.io/blog/2015/11/06/helo-pagaruyungstudio</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
