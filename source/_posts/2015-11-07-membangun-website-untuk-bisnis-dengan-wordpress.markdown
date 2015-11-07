@@ -45,7 +45,7 @@ Dari hasil perbandingan *wordpress* dengan *cms open source* lain, seperti  [Dru
 
 Pada artikel yang di tulis oleh [Smashingmagazine](http://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/), memperlihatkan tren baru dalam pengembangan website bisnis. Bahkan pada tahun 2014 yang lalu pada google trends, beberapa website  di bangun menggunakan teknologi *website static generator*.
 
-Perusahaan - perusahaan besar seperti [Nest](https://nest.com/), [MailChimp](http://mailchimp.com/) mengandalkan teknologi *website static generator* pada website utama nya, bahkan Vox(http://www.voxmedia.com/) membuat sendiri framework *website static generator* yang dinamakan [autotune](http://product.voxmedia.com/2015/7/8/8907841/introducing-autotune).
+Perusahaan - perusahaan besar seperti [Nest](https://nest.com/), [MailChimp](http://mailchimp.com/) mengandalkan teknologi *website static generator* pada website utama nya, bahkan [Vox](http://www.voxmedia.com/) membuat sendiri framework *website static generator* yang dinamakan [autotune](http://product.voxmedia.com/2015/7/8/8907841/introducing-autotune).
 
 Masih dalam artikel *Smashingmagazine*, disebutkan berbagai alasan kenapa perusahaan - perusahaan tersebut menggunakan teknologi ini, bukan *cms* seperti pada umumnya, selain masalah dengan waktu *loading*, yakni  suport dengan *markdown syntak*.
 
