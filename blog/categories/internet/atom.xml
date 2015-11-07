@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Internet | PagaruyungStudio.com]]></title>
   <link href="http://ariefbudiyono.github.io/blog/categories/internet/atom.xml" rel="self"/>
   <link href="http://ariefbudiyono.github.io/"/>
-  <updated>2015-11-07T07:32:14+00:00</updated>
+  <updated>2015-11-07T07:37:04+00:00</updated>
   <id>http://ariefbudiyono.github.io/</id>
   <author>
     <name><![CDATA[PagaruyungStudio.com]]></name>
@@ -53,7 +53,7 @@
 
 <p>Pada artikel yang di tulis oleh <a href="http://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/">Smashingmagazine</a>, memperlihatkan tren baru dalam pengembangan website bisnis. Bahkan pada tahun 2014 yang lalu pada google trends, beberapa website  di bangun menggunakan teknologi <em>website static generator</em>.</p>
 
-<p>Perusahaan - perusahaan besar seperti <a href="https://nest.com/">Nest</a>, <a href="http://mailchimp.com/">MailChimp</a> mengandalkan teknologi <em>website static generator</em> pada website utama nya, bahkan Vox(<a href="http://www.voxmedia.com/">http://www.voxmedia.com/</a>) membuat sendiri framework <em>website static generator</em> yang dinamakan <a href="http://product.voxmedia.com/2015/7/8/8907841/introducing-autotune">autotune</a>.</p>
+<p>Perusahaan - perusahaan besar seperti <a href="https://nest.com/">Nest</a>, <a href="http://mailchimp.com/">MailChimp</a> mengandalkan teknologi <em>website static generator</em> pada website utama nya, bahkan <a href="http://www.voxmedia.com/">Vox</a> membuat sendiri framework <em>website static generator</em> yang dinamakan <a href="http://product.voxmedia.com/2015/7/8/8907841/introducing-autotune">autotune</a>.</p>
 
 <p>Masih dalam artikel <em>Smashingmagazine</em>, disebutkan berbagai alasan kenapa perusahaan - perusahaan tersebut menggunakan teknologi ini, bukan <em>cms</em> seperti pada umumnya, selain masalah dengan waktu <em>loading</em>, yakni  suport dengan <em>markdown syntak</em>.</p>
 
