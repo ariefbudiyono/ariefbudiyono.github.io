@@ -4,7 +4,7 @@
   <title><![CDATA[PagaruyungStudio.com]]></title>
   <link href="http://ariefbudiyono.github.io/atom.xml" rel="self"/>
   <link href="http://ariefbudiyono.github.io/"/>
-  <updated>2015-11-07T07:37:04+00:00</updated>
+  <updated>2015-11-07T07:38:47+00:00</updated>
   <id>http://ariefbudiyono.github.io/</id>
   <author>
     <name><![CDATA[PagaruyungStudio.com]]></name>
@@ -57,11 +57,15 @@
 
 <p>Masih dalam artikel <em>Smashingmagazine</em>, disebutkan berbagai alasan kenapa perusahaan - perusahaan tersebut menggunakan teknologi ini, bukan <em>cms</em> seperti pada umumnya, selain masalah dengan waktu <em>loading</em>, yakni  suport dengan <em>markdown syntak</em>.</p>
 
-<p><em>Markdown syntak</em> ini merupakan cara penulisan dokumen yang <strong>berbasis text</strong> yang memiliki beberapa kelebihan antara lain :
-1. Bisa memanfaatkan fitur version control secara maksimal seperti diff, blame, branch, merge, dan sebagainya.
-2. Mudah diedit, pakai notepad pun jadi.
-3. Bisa diedit dimana saja, misalnya di tablet atau handphone.<br/>
-4. Bisa dikonversi menjadi format lain (misalnya PDF, dsb)</p>
+<p><em>Markdown syntak</em> ini merupakan cara penulisan dokumen yang <strong>berbasis text</strong> yang memiliki beberapa kelebihan antara lain :</p>
+
+<ol>
+<li>Bisa memanfaatkan fitur version control secara maksimal seperti diff, blame, branch, merge, dan sebagainya.</li>
+<li>Mudah diedit, pakai notepad pun jadi.</li>
+<li>Bisa diedit dimana saja, misalnya di tablet atau handphone.</li>
+<li>Bisa dikonversi menjadi format lain (misalnya PDF, dsb)</li>
+</ol>
+
 
 <h4>Beberapa tools untuk meng- <em>generator- website</em> statis</h4>
 
