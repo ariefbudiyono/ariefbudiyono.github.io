@@ -137,6 +137,7 @@ $border-style: 2px solid $secondary-text-color;
 // general styles
 // ------------------------------
 
+footer > p.meta:first-child { display: none; }
 html {
   @extend .default-font;
   border-top: 8px solid $accent-color;
@@ -252,7 +253,7 @@ img#portrait {
   width: 240px;
 }
 
-  footer > p.meta:first-child { display: none; }
+
 
 // ------------------------------
 // code
